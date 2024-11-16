@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     String ShowOrHideWebViewInitialUse = "show";
     private WebView webview ;
     private ProgressBar spinner;
-    String myurl = "https://rexana.vercel.app/"; //Change this  to your website hostname
+    String myurl = "mariam-241.vercel.app/calcule"; //Change this  to your website hostname
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
